@@ -6,7 +6,7 @@ export default defineConfig(() => {
     // const env = loadEnv(mode, '.', '');
     return {
       plugins: [react()],
-      base: '/username.github.io/',
+      base: '/',
       // server: {
       //   port: 443,
       //   host: '0.0.0.0',
