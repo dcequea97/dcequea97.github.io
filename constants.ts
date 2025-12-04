@@ -4,12 +4,12 @@ export const PERSONAL_INFO = {
   en: {
     name: "David Cequea",
     role: "Android Developer",
-    bio: "I am a passionate Android Developer with over 6 years of experience building high-quality mobile applications. I specialize in modern Android development using Kotlin, Jetpack Compose, and Clean Architecture. I love solving complex problems and optimizing app performance to ensure a buttery smooth user experience."
+    bio: "I am a passionate Android Developer with 3 years of experience building modern, high-quality mobile applications. I specialize in Kotlin, Jetpack Compose, and Clean Architecture, with strong skills in dependency injection, state management, and scalable architecture patterns. I thrive on solving complex technical challenges, optimizing app performance, and crafting polished user interfaces that deliver smooth and engaging user experiences. Driven by continuous learning, I am committed to writing clean, maintainable code and creating elegant solutions that bring ideas to life on Android."
   },
   es: {
     name: "David Cequea",
     role: "Desarrollador Android",
-    bio: "Soy un desarrollador de Android apasionado con más de 6 años de experiencia creando aplicaciones móviles de alta calidad. Me especializo en el desarrollo moderno de Android utilizando Kotlin, Jetpack Compose y Clean Architecture. Me encanta resolver problemas complejos y optimizar el rendimiento de las aplicaciones para garantizar una experiencia de usuario fluida."
+    bio: "Soy desarrollador Android con 3 años de experiencia creando apps modernas y de alto rendimiento. Trabajo principalmente con Kotlin, Jetpack Compose y Clean Architecture, usando inyección de dependencias, gestión de estado y patrones escalables. Me gusta resolver problemas complejos, optimizar el rendimiento y cuidar los detalles de la interfaz para una experiencia fluida y atractiva. Aprendo de forma continua y priorizo escribir código limpio y mantenible para construir soluciones elegantes y robustas en Android."
   }
 };
 
