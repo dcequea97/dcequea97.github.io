@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 border-2 border-emerald-400 rounded-full translate-x-4 translate-y-4 transition-transform group-hover:translate-x-2 group-hover:translate-y-2"></div>
             <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-[#112240] grayscale hover:grayscale-0 transition-all duration-500 bg-slate-800">
                <img 
-                 src="https://picsum.photos/id/447/800/800" 
+                 src="images/me.jpg" 
                  alt="Profile" 
                  className="w-full h-full object-cover"
                />
